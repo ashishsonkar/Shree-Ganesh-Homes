@@ -56,7 +56,7 @@ var ShreeGanesh=`[
 			"para":"Your Trusted and Assured Builders and Developers."
 		},
 		{
-			"cardImg":["image/cardimg1.JPEG","image/cardimg2.JPEG","image/cardimg3.JPEG","image/cardimg4.JPEG"],
+			"cardImg":["image/cardimg1.jpeg","image/cardimg2.jpeg","image/cardimg3.jpeg","image/cardimg4.jpeg"],
 			"cardHeading":["Ekdanta Niwas","Shivay Homes","Ganesh Vihar","Shivay Nagar Phase 2"],
 			"location":["Uslapur Hafa Bilaspur","Sakari Bilaspur","Akash Marg Mangla Chowk","Shivay Nagar Fase 2 Bilaspur"],
 			"Area":["20*50=1000 Square feet","25*40=1000 Square feet","25*40=1000 Square feet","25*40=1000 Square feet"],
